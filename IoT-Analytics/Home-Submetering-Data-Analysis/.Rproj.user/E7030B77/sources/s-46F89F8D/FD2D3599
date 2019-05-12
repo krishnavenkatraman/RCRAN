@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556517352857.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FD2D3599",
+    "lastKnownWriteTime" : 1556517525,
+    "last_content_update" : 1556517525475,
+    "path" : "~/Desktop/Workbench/Cisco_Lenovo_Laptop/misc/personal/UT-Data-Analytics/Study-Materials/Chapter-3/Task-1/workspace/Exploratory-Data-Analysis/ElectricPowerConsumption.R",
+    "project_path" : "ElectricPowerConsumption.R",
+    "properties" : {
+        "cursorPosition" : "12,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
